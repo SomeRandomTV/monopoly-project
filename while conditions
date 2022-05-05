@@ -1,0 +1,1 @@
+((playerLocation != 2) && (playerLocation != 17) && (playerLocation != 33) && (playerLocation != 7 ) && (playerLocation != 22) && (playerLocation != 36) && (playerLocation != 4)  && (playerLocation != 10) && (playerLocation != 12) && (playerLocation != 20) && (playerLocation != 22) && (playerLocation != 30) &&  (playerLocation != 38) && (playerLocation != 0 ))
